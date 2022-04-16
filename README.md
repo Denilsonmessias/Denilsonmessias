@@ -1,11 +1,14 @@
-<h1 align="center" style.color="brown"> Hello guys!! Eu sou Denilson Messias Rodrigues </h1>
-
+<h1 align="center" style.color="brown"> Hello guys!! Eu sou Denilson Messias Rodrigues.
+  Analista de Sistemas e Desenvolvedor Front-End </h1>
+  
 ###
 
 <div align="center">
   <a href="https://github.com/Denilsonmessias">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Denilsonmessias&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denilsonmessias&layout=compact&langs_count=7&theme=highcontrast"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Denilsonmessias&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denilsonmessias&layout=compact&langs_count=7&theme=midnight-purple"/>
+    
 </div>
   
   <div align="center" style="display: inline_block"><br>
